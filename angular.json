@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "twogentech"
+    }
+  },
+  "defaultProject": "twogentech",
+  "cli": {
+    "analytics": "5668bfef-246d-4ac3-abb7-a651b185056d"
+  }
 }
